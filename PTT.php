@@ -7,7 +7,8 @@
 </head>
 <body>
 <?php
-    echo "Phan Tất Thìn"
+    echo "Phan Tất Thìn";
+    echo "1911065408";
 ?>
 </body>
 </html>
