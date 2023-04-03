@@ -27,7 +27,12 @@
                     <li><a href="#">Giày </a></li>
                     <li><a href="#">Dép </a></li>
                     <li><a href="#">Áo khoác </a></li>
-                    <li><a href="#">Balo túi xách </a></li>
+                    <li><a href="#">Vòng đeo cổ </a></li>
+                    <li><a href="#">vòng tay </a></li>
+                    <li><a href="#">Đồng hồ </a></li>
+                    <li><a href="#">Nhẫn nam </a></li>
+                    <li><a href="#">túi xách </a></li>
+
 
                 </ul>
             </div>
